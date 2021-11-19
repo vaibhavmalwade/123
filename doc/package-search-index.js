@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"net.guides.springboot2.springboot2jpacrudexample.controller"}];updateSearchResults();

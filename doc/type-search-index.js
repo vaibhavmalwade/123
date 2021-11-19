@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"net.guides.springboot2.springboot2jpacrudexample.controller","l":"EmployeeController"}];updateSearchResults();
